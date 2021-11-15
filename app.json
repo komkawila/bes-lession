@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bes-lesion",
+    "slug": "bes-lesion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bes-lesion"
+}
